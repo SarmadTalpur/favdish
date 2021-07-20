@@ -38,4 +38,7 @@
     <string name="title_dish_details">Dish Details</string>
 
     <string name="lbl_estimate_cooking_time">The approx time required to cook the dish is %1$s minutes.</string>
+
+    <string name="msg_added_to_favorites">Added to Favorites.</string>
+    <string name="msg_removed_from_favorites">Removed from Favorites.</string>
 </resources>
