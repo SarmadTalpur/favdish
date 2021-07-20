@@ -127,6 +127,7 @@
             android:layout_margin="@dimen/_16sdp"
             android:gravity="center"
             android:textSize="@dimen/_12sdp"
+            android:background="#EDF6E5"
             android:textColor="@color/grey_500"
             tools:text="@string/lbl_estimate_cooking_time" />
     </RelativeLayout>
